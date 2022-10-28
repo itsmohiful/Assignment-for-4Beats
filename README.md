@@ -1,9 +1,9 @@
 # 4Beats Assrignment
 
-##create virtual environment
+## create virtual environment:
 	$ python -m venv env
 
-## activate environment
+## activate environment:
 	$ env\Scripts\activate (windows)
 	or
 	$ source env/bin/activate (mac or linux)
@@ -11,13 +11,13 @@
 ## install requirements.txt:
 	$ pip install -r requirements.txt
 
-### Run script.py file
--   For run **script.py** , use this command in Terminal or console:
+### Run script.py file:
         $ python script.py (windows)
--   or
+        or
         $ python3 script.py (linux or mac)
 
-# Please input a keyword in terminal [like : dhaka, cricket, bombay.... ]
+## Please input a keyword in terminal [like : dhaka, cricket, bombay.... ]
 
-##Note: Must close exel file before run the script.
+``Note: 
+Must close exel file before run the script ``
 
